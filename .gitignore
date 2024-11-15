@@ -1,0 +1,8 @@
+.venv/
+.cache/
+.vscode/
+.swap/
+*.o
+*.d
+.pycache/
+build/
